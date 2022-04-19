@@ -54,7 +54,8 @@ This repository maintains the lab reports of Scripting Language Files which is a
 
 ### Useful Resources
 
-- [W3Schools](https://www.w3schools.com/)
+[<img src="https://img.shields.io/badge/W3Schools-2AD0FA?style=for-the-badge&logo=brave&logoColor=000&labelColor=FB542B">](https://www.w3schools.com/)
+[<img src="https://img.shields.io/badge/W3Resource-42E0F5?style=for-the-badge&logo=googlechrome&logoColor=000&labelColor=4285F4">](https://www.w3resource.com/javascript-exercises/)
 
 # Author
 
