@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Get days in Month</title>
+</head>
+
+<body>
+</body>
+<script type="text/javascript">
+    var getDaysInMonth = function(month, year) {
+        return new Date(year, month, 0).getDate();
+    };
+    document.write('January: ' + getDaysInMonth(1, 2022) + '<br>');
+    document.write('February: ' + getDaysInMonth(2, 2022) + '<br>');
+    document.write('September: ' + getDaysInMonth(9, 2022) + '<br>');
+    document.write('December: ' + getDaysInMonth(12, 2022) + '<br>');
+</script>
+
+</html>
