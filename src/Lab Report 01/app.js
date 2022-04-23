@@ -1,9 +1,7 @@
 function getName() {
-    let x = document.getElementById("form");
-    for (let i in x) {
-        if (x.elements[i].value != 'Submit') {
-            console.log(x.elements[i].value);
-        }
-    }
-    return false;
+    let x = document.getElementById("fName").value;
+    let y = document.getElementById("lName").value;
+
+    document.getElementById("output").innerHTML = "Name: " + x + ' ' + y;
+    return false
 }
