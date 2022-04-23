@@ -1,3 +1,5 @@
 # JavaScript function to set the background color of paragraph.
 
-![Output](./output.png)
+![Change](./output.png)
+
+![Reset](./output2.png)
